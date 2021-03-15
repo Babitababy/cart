@@ -1,0 +1,2 @@
+
+ This is the static file of blog app
